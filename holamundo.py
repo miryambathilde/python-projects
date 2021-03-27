@@ -5,8 +5,6 @@ Este es un string
 multilinea
 ''')
 
-print('Voy a mostrar un \ carácter específico')
-
 print('Voy a mostrar un \n carácter específico')
 
 print('Voy a mostrar un \\n carácter específico')
@@ -14,3 +12,7 @@ print('Voy a mostrar un \\n carácter específico')
 nombre = input('¿Como te llamas? ')
 
 print('Hola ' + nombre)
+
+name = 'Hola Python'
+
+print (name)
